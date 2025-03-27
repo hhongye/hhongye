@@ -1,10 +1,8 @@
 ## Yerin's GitHub
 
 ### Studying💭 <br>
-<img src="https://img.shields.io/badge/HTML5-008FC7?style=fot-the-badge&logo=html5&logoColor=E34F26">
-<img src="https://img.shields.io/badge/CSS-008FC7?style=fot-the-badge&logo=css&logoColor=663399">
-<img src="https://img.shields.io/badge/JavaScript-008FC7?style=fot-the-badge&logo=JavaScript&logoColor=F7DF1E">
-<img src="https://img.shields.io/badge/tailwind css-008FC7?style=fot-the-badge&logo=tailwindcss&logoColor=06B6D4">
+<img src="https://img.shields.io/badge/HTML5-008FC7?style=fot-the-badge&logo=html5&logoColor=E34F26"> <img src="https://img.shields.io/badge/CSS-008FC7?style=fot-the-badge&logo=css&logoColor=663399"> <img src="https://img.shields.io/badge/tailwind css-008FC7?style=fot-the-badge&logo=tailwindcss&logoColor=06B6D4"> <img src="https://img.shields.io/badge/JavaScript-008FC7?style=fot-the-badge&logo=JavaScript&logoColor=F7DF1E">
+
 <!--
 **hhongye/hhongye** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 ### 🌼YERIN <br>
